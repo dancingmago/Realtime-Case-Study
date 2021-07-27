@@ -1,0 +1,18 @@
+img{
+    width: 150px;
+    height: 150px;
+}
+body{
+    background-color: white;
+    color: rgb(62, 28, 109);
+    text-align: center;
+    font-size: 25px;
+}
+.mini_result{
+    border-radius: 10px;
+    background-color: plum;
+    color: powderblue;
+    width: 500px;
+    height: 200px;
+    box-shadow: 10px 10px 10px rgb(206, 155, 226);
+}
