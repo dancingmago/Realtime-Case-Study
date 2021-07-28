@@ -16,3 +16,9 @@ body{
     height: 200px;
     box-shadow: 10px 10px 10px rgb(206, 155, 226);
 }
+.purple{
+    color: powderblue;
+}
+.small{
+    font-size: 15px;
+}
